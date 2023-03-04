@@ -7,7 +7,7 @@ Análizar los principlaes comportamientos de circuitos RLC y filtros pasivos
 ## Objetivos Específicos 
 - Anlizar la impedancia de circuitos RLC en serie y paralelo 
 - Comprender la resonancia en paralelo 
-- Análizar de circuitos RLC en serie-paralelo
+- Análizar circuitos RLC en serie-paralelo
 - Describir los filtros pasivos como: pasabajas, pasaaltas, pasabanda y rechazabanda
 
 # Marco Teórico
