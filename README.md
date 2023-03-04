@@ -5,10 +5,10 @@ Resumen del capítulo 17 y 18 del libro de Principios de Circuitos Eléctricos -
 Análizar los principlaes comportamientos de circuitos RLC y filtros pasivos 
 
 ## Objetivos Específicos 
-Anlizar la impedancia de circuitos RLC en serie y paralelo 
-Comprender la resonancia en paralelo 
-Análizar de circuitos RLC en serie-paralelo
-Describir los filtros pasivos como: pasabajas, pasaaltas, pasabanda y rechazabanda
+- Anlizar la impedancia de circuitos RLC en serie y paralelo 
+- Comprender la resonancia en paralelo 
+- Análizar de circuitos RLC en serie-paralelo
+- Describir los filtros pasivos como: pasabajas, pasaaltas, pasabanda y rechazabanda
 
 # Marco Teórico
 ![image](https://user-images.githubusercontent.com/116780907/222880417-a626aa0d-24fc-43fc-975b-b374c7f6c059.png)
@@ -256,11 +256,14 @@ Para el literal b
 ![image](https://user-images.githubusercontent.com/105259381/187310252-f14ce518-6bd5-4021-90f2-9ad44e7f1bd5.png)
 
 # Conclusiones
-
-
-
-
-
+- La impedancia en un circuito RLC en serie aumenta con la frecuencia, lo que provoca una caída de voltaje en el circuito, meintras que en un circuito RLC en paralelo disminuye con la frecuencia, lo que provoca un aumento de corriente en el circuito.
+- La resonancia en un circuito RLC en paralelo ocurre cuando la impedancia del circuito alcanza un mínimo a una frecuencia específica, lo que provoca una gran corriente a través del circuito, la frecuencia de resonancia se puede calcular a partir de los valores de los componentes del circuito RLC.
+- Los circuitos RLC en serie-paralelo pueden ser analizados utilizando técnicas de simplificación de circuitos, como la Ley de Ohm y las leyes de Kirchhoff, además la impedancia total de un circuito RLC en serie-paralelo se puede calcular sumando las impedancias de los componentes en serie y paralelo.
+- Los filtros pasivos son circuitos que utilizan componentes pasivos, como resistencias, capacitores e inductores, para filtrar señales eléctricas.
+- Un filtro pasabajas permite el paso de señales de baja frecuencia y atenúa las señales de alta frecuencia.
+- Un filtro pasaaltas permite el paso de señales de alta frecuencia y atenúa las señales de baja frecuencia.
+- Un filtro pasabanda permite el paso de señales dentro de un rango específico de frecuencias y atenúa las señales fuera de ese rango.
+- Un filtro rechazabanda atenúa las señales dentro de un rango específico de frecuencias y permite el paso de señales fuera de ese rango.
 
 ## Bibliografía 
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos . México : PEARSON EDUCACIÓN.
